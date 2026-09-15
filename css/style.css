@@ -4,14 +4,17 @@ body {
     padding: 20px
 }
 h1{
-    color:brown;
+    color:rgb(20, 2, 186);
     text-align: center;
 }
 h2{
-    color: aquamarine;
+    color: rgb(204, 68, 18);
     border-bottom: 2px solid black; 
 }
 p{
     line-height: 1.6;
     max-width: 400px ;
+}
+figure{
+    text-align: center;
 }
